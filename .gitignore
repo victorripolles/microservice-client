@@ -44,8 +44,8 @@ replay_pid*
 *.env
 
 # Spring Boot application configuration files (local/dev)
-application-*.yml
-HELP.md
+application.yml
+application.properties
 target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
