@@ -1,4 +1,4 @@
-package com.victorripolles.microservice_client;
+package com.victorripolles.microservice-client;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
