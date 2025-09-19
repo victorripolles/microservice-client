@@ -29,4 +29,4 @@ Easily extendable for real-world use cases
 
 Clone the repository:
 
-git clone https://github.com/victorripolles/microservice-client.git
+git clone https://github.com/victorripolles/client-service.git
