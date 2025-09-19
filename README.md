@@ -3,6 +3,7 @@ Java microservice project with Swagger contract-first approach, RESTful API desi
 
 This repository contains a Java-based client microservice built with a contract-first approach using Swagger. It is designed using clean architecture principles and for provide a solid foundation for building scalable microservices.
 
+
 🚀 Tech Stack
 
 Java 17
